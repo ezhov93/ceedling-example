@@ -1,0 +1,26 @@
+---
+:source:
+  :path: test
+  :file: test_calculator.c
+:successes:
+- :test: test_TestCalculator_Add_
+  :line: 14
+  :message: ''
+  :unity_test_time: 0
+- :test: test_TestCalculator_SubstractDefault_
+  :line: 19
+  :message: ''
+  :unity_test_time: 0
+- :test: test_TestCalculator_SubstractButtonPresed_
+  :line: 27
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 3
+  :passed: 3
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.004293999999845255

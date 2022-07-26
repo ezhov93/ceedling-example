@@ -1,0 +1,9 @@
+---
+build/test/mocks/mock_button.c:
+- TEST
+- USE_CEEDLING
+- USE_CEEDLING_MOCK
+src/calculator.c:
+- TEST
+- USE_CEEDLING
+- USE_CEEDLING_MOCK
